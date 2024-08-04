@@ -1,7 +1,12 @@
-# tp-scaffold
+# TP Sistemas Operativos 2024 - Primer Cuatrimestre
+Este repositorio contiene el trabajo práctico correspondiente a la asignatura Sistemas Operativos de la carrera de Ingeniería en Sistemas de Información. El trabajo fue desarrollado durante un periodo de cuatro meses. La consigna del trabajo práctico puede encontrarse en el siguiente [enlace](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit).
 
-Esta es una plantilla de proyecto diseñada para generar un TP de Sistemas
-Operativos de la UTN FRBA.
+## Integrantes del grupo
+- Facundo Gauna Somá
+- Nehuen Balian Amaros
+- Rocio Ochoa Charlín
+- Eitan Wajsberg
+- Yerilin Villarreal
 
 ## Dependencias
 
@@ -33,29 +38,7 @@ repositorio:
 code tp.code-workspace
 ```
 
-## Checkpoint
-
-Para cada checkpoint de control obligatorio, se debe crear un tag en el
-repositorio con el siguiente formato:
-
-```
-checkpoint-{número}
-```
-
-Donde `{número}` es el número del checkpoint.
-
-Para crear un tag y subirlo al repositorio, podemos utilizar los siguientes
-comandos:
-
-```bash
-git tag -a checkpoint-{número} -m "Checkpoint {número}"
-git push origin checkpoint-{número}
-```
-
-Asegúrense de que el código compila y cumple con los requisitos del checkpoint
-antes de subir el tag.
-
-## Entrega
+## Despliegue
 
 Para desplegar el proyecto en una máquina Ubuntu Server, podemos utilizar el
 script [so-deploy] de la cátedra:
