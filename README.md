@@ -8,6 +8,9 @@ Este repositorio contiene el trabajo práctico correspondiente a la asignatura S
 - Eitan Wajsberg
 - Yerilin Villarreal
 
+## Descripción del Proyecto
+El objetivo del trabajo práctico consiste en desarrollar una solución que permita la simulación de un sistema distribuido, capaz de planificar procesos, resolver peticiones al sistema y administrar de manera adecuada una memoria y un sistema de archivos bajo los esquemas explicados en sus correspondientes módulos.
+
 ## Dependencias
 
 Para poder compilar y ejecutar el proyecto, es necesario tener instalada la
