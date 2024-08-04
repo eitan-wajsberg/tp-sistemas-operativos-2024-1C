@@ -1,5 +1,5 @@
 # TP Sistemas Operativos 2024 - Primer Cuatrimestre
-Este repositorio contiene el trabajo práctico correspondiente a la asignatura Sistemas Operativos de la carrera de Ingeniería en Sistemas de Información. El trabajo fue desarrollado durante un periodo de cuatro meses. La consigna del trabajo práctico puede encontrarse en el siguiente [enlace](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit).
+Este repositorio contiene el trabajo práctico correspondiente a la asignatura Sistemas Operativos de la carrera de Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional Facultad Regional de Buenos Aires (UTN FRBA). El trabajo fue desarrollado durante un periodo de cuatro meses. La consigna del trabajo práctico puede encontrarse en el siguiente [enlace](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec/edit).
 
 ## Integrantes del grupo
 - Facundo Gauna Somá
